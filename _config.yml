@@ -26,13 +26,12 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Sobre nosotros
-    url: /about
-  - title: Programas
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Inicio
-    url: http://centauros.net
+  - title: Sobre el programa
+    url: /programa
+  - title: Cuaderno de bitácora
+    url: /bitacora
+  - title: iVoox
+    url: http://centauros.ivoox.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

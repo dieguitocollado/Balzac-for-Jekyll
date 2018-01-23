@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /articles/index.html
-title: "Articles"
-tags: [blog, graphic design]
+permalink: /bitacora/index.html
+title: "Cuaderno de bitácora"
+tags: [blog, bitacora, audios, películas]
 ---
