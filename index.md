@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+title: "Centauros del desierto"
+tags: [cenaturos del desierto, radio, cine, películas, movies, estrenos, director de cine, directores de cine]
 image:
-  feature: /images/typewriter.jpg
+  feature: fondo.jpg
 ---
