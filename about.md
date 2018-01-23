@@ -8,7 +8,7 @@ image:
   feature: fondo.jpg
 ---
 
-Cada primer jueves de mes en Radio Bonanova (107.1 FM) y en YouTube, hablaremos en directo sobre filmografías enteras de directores, actores y estudios, junto con un breve repaso de la actualidad.
+Cada primer jueves de mes en Radio Bonanova (107.1 FM) y en YouTube, hablaremos sobre filmografías enteras de directores y actores, junto con un breve repaso de la actualidad.
 
 ### El equipo
 * Diego Collado, director del programa
